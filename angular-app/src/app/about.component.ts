@@ -2,7 +2,12 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-about',
-  template: `
+  template: ` 
+  <div class="student-profile">
+  <h1>WELCOME TO <span>NGUYỄN HÀ GIA HUY</span></h1>
+  <p><strong>Profile:</strong> Thông tin cá nhân + ảnh</p>
+  <p>MSSV: 2474802010142</p>
+</div>
     <div class="content-container">
       <div class="content-title-group not-found">
         <h2 class="title">Product Wish List</h2>
