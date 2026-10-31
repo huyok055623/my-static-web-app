@@ -352,4 +352,6 @@ MigrationBackup/
 .DS_Store
 
 local.settings.json
-.telemetry
+.telemetry.angular/cache/
+node_modules/
+dist/
